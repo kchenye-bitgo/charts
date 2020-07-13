@@ -1,6 +1,10 @@
 # JFrog Pipelines Chart Changelog
 All changes to this chart to be documented in this file.
 
+## [1.4.0] - July 13th, 2020
+* Adds support for k8s build plane config
+* Adds support for ssl enabled postgresql
+
 ## [1.3.6] - Jul 23, 2020
 * Added support for customSidecarContainers, customVolumes, customInitcontainers and configMaps
 * Update alpine version to 3.12
