@@ -1,7 +1,7 @@
 # JFrog Pipelines Chart Changelog
 All changes to this chart to be documented in this file.
 
-## [1.4.0] - July 13th, 2020
+## [1.4.0] - July 24th, 2020
 * Adds support for k8s build plane config
 * Adds support for ssl enabled postgresql
 
